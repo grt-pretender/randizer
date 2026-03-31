@@ -1,2 +1,2 @@
 # randizer
-Web tool for practicing improvisation
+CLI tool for practicing improvisation
